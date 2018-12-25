@@ -1,6 +1,6 @@
 # dne-dae-deht
 
-__Dne Dae Deht__ . The open source novel. Written in Korean.
+__Dne Dae Deht__ . The open source novel. Written in Korean(한국어).
 
 ## Introduction ##
 
